@@ -24,3 +24,22 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="syrincones@gmail.com">syrincones@gmail.com</a>
 <!--------------------------------------------------------------------------------------------------------------------------------->
+<!--tech stack icons-->
+## My Skills Include
+
+<h4> Languages </h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,ts,dart&perline=14" />
+  </a>
+</p>
+<h4> Other Tools and Technologies </h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,gcp,mongodb,mysql,nodejs,nextjs,tailwind,vscode,visualstudio,unity&perline=14" />
+  </a>
+</p>
+<!--------------------------------------------------------------------------------------------------------------------------------->
+
+
+
