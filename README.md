@@ -11,6 +11,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--------------------------------------------------------------------------------------------------------------------------------->
+
 <!-- About Me -->
 <img src="https://cdn3.emoji.gg/emojis/23907-rollingcat.gif" width="30px" height="30px">&nbsp;***About Me***
 
@@ -24,6 +25,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="syrincones@gmail.com">syrincones@gmail.com</a>
 <!--------------------------------------------------------------------------------------------------------------------------------->
+
 <!--tech stack icons-->
 ## My Skills Include
 
